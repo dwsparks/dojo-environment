@@ -21,3 +21,5 @@ mv /tmp/dojo-release-1.8.6-src/* /var/www/
 
 #install Git
 apt-get install -y git-core
+
+git clone git@github.com:dwsparks/canadaQuakes.git /var/www/
